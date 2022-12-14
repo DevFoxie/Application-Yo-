@@ -61,17 +61,19 @@ p {
 
 }
 
-.benefice h1 {
-    display: flex;
-    margin-top: 20rem;
-    font-size: 3rem;
+.benefice h1{
+display: flex;
+margin-top: 20rem;
 
+    
 }
 
 .benefice p {
     display: flex;
+        
+    }
 
-    font-size: 2rem;
+#features{
 
 }
 
