@@ -18,9 +18,28 @@ p{
 
 }
 
+/* DEBUT CODE REMY */
+
 #benefice{
 
+    padding-top: 10rem;
+    
+
 }
+
+.benefice h1{
+display: flex;
+margin-top: 20rem;
+font-size: 3rem;
+    
+}
+
+.benefice p{
+    display: flex;
+
+    font-size: 2rem;
+        
+    }
 
 #features{
 
