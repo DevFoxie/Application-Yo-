@@ -146,7 +146,7 @@ p {
   .progress {
     animation: go-left-right 3s infinite alternate;
     position: relative;
-    border: 2px solid green;
+    border: 2px solid red;
     width: 100px;
     height: 50px;
     background: blue;
