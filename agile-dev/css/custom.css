@@ -51,17 +51,30 @@ p {
 @media (max-width: 550px) {
     .iphone1 {
         width: 100%;
+        display:block;
+        clear:both;
+    }
+    .iphone-2{
+        width: 100%;
+        display:block;
+        clear:both;
+    }
+    .iphone-3{
+        width: 100%;
+        display:block;
+        clear:both;
     }
 }
 
-/* DEBUT CODE REMY */
 
-#benefice {
-    padding-top: 3rem;
-}
+/* DEBUT CODE REMY */
 
 .titleremy {
     margin-top: 20rem;
+}
+
+.email-button{
+    margin-right: 0px !important;
 }
 
 /* FIN CODE REMY */
@@ -76,11 +89,7 @@ p {
 }
 
 #downloads {
-    height: 500px;
-}
-
-.benefice p {
-    display: flex;
+    height: 400px;
 }
 
 .benefice p {
@@ -101,7 +110,6 @@ p {
     width: 100%;
     height: 400px;
     background-color: black;
-    margin-top: 10px;
 }
 
 .email-button {
