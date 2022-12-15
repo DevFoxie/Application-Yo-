@@ -60,22 +60,27 @@ height: 600px;
 
 #benefice{
 
-    padding-top: 10rem;
+    padding-top: 3rem;
     
 
 }
 
-.benefice h1{
-display: flex;
+.titleremy {
+
 margin-top: 20rem;
 
     
 }
 
-.benefice p{
-    display: flex;
+.pararemy p{
+
         
     }
+
+
+/* FIN CODE REMY */
+
+
 
 #features{
 
