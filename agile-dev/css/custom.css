@@ -65,6 +65,14 @@ p {
     margin-top: 20rem;
 }
 
+#contact{
+    height: 500px;
+   } 
+   
+.benefice p {
+    display: flex;     
+    }
+
 #contact {
     height: 700px;
 }
