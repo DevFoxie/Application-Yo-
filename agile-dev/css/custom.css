@@ -56,6 +56,16 @@ p {
 
 /* DEBUT CODE REMY */
 
+#benefice{
+    padding-top: 3rem;
+}
+
+.titleremy{
+margin-top: 20rem;   
+}
+
+/* FIN CODE REMY */
+
 #benefice {
     padding-top: 10rem;
 }
@@ -73,7 +83,7 @@ p {
     display: flex;     
     }
 
-.benefice p {
+.benefice p{
     display: flex;
 }
 
