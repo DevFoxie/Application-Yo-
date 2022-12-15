@@ -57,11 +57,10 @@ p {
 /* DEBUT CODE REMY */
 
 #benefice {
-
     padding-top: 10rem;
 }
 
-.benefice h1 {
+#benefice h1 {
     display: flex;
     margin-top: 20rem;
 }
@@ -82,7 +81,11 @@ p {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 200px;
+    height: 400px;
     background-color: black;
     margin-top: 10px;
+}
+
+.email-button{
+    margin-right: 200px;
 }
