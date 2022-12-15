@@ -57,6 +57,16 @@ p {
 /* DEBUT CODE REMY */
 
 #benefice {
+    padding-top: 3rem;
+}
+
+.titleremy {
+    margin-top: 20rem;
+}
+
+/* FIN CODE REMY */
+
+#benefice {
     padding-top: 10rem;
 }
 
@@ -65,13 +75,13 @@ p {
     margin-top: 20rem;
 }
 
-#downloads{
+#downloads {
     height: 500px;
-   } 
-   
+}
+
 .benefice p {
-    display: flex;     
-    }
+    display: flex;
+}
 
 .benefice p {
     display: flex;
@@ -81,7 +91,7 @@ p {
     background-color: #EEEEE4;
 }
 
-#PARTENAIRES{
+#PARTENAIRES {
     background-color: #eeeee4;
 }
 
@@ -94,6 +104,6 @@ p {
     margin-top: 10px;
 }
 
-.email-button{
+.email-button {
     margin-right: 200px;
 }
