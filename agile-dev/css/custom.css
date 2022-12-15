@@ -68,13 +68,15 @@ margin-top: 20rem;
     
 }
 
+
+#contact{
+    height: 700px;
+   }  
 .benefice p {
-    display: flex;
-        
+    display: flex;     
     }
 
 #features{
-
 }
 
 #features {}
