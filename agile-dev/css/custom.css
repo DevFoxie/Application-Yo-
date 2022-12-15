@@ -136,3 +136,21 @@ p {
   #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
   }
+
+  /* BASILE TRANSITION*/
+  @keyframes go-left-right {        
+    from { left: 0px; }             
+    to { left: calc(100% - 50px); } 
+  }
+
+  .progress {
+    animation: go-left-right 3s infinite alternate;
+    position: relative;
+    border: 2px solid green;
+    width: 100px;
+    height: 50px;
+    background: blue;
+    color: #EEEEE4;
+    text-align: center;
+    align-items: center;
+  }
