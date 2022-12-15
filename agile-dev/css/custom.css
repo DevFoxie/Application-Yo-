@@ -57,31 +57,22 @@ p {
 #benefice {
 
     padding-top: 10rem;
-
-
 }
 
-.benefice h1{
-display: flex;
-margin-top: 20rem;
-
-    
+.benefice h1 {
+    display: flex;
+    margin-top: 20rem;
 }
 
-
-#contact{
+#contact {
     height: 700px;
-   }  
-.benefice p {
-    display: flex;     
-    }
+}
 
-#features{
+.benefice p {
+    display: flex;
 }
 
 #features {}
-
-#contact {}
 
 #footer {
     left: 0;
@@ -91,3 +82,4 @@ margin-top: 20rem;
     background-color: black;
     margin-top: 10px;
 }
+
